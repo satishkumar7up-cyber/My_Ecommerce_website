@@ -6,6 +6,6 @@
 <img width="1138" height="673" alt="Footer_page" src="https://github.com/user-attachments/assets/93bfcfa6-1d0e-4d2b-ac6f-97b12dad7591" />
 
 # Technologies Used
-Front-End:- HTML
-Styling:- CSS
+Front-End:- HTML<br>
+Styling:- CSS<br>
 Back-end:- JavaScript
